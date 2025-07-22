@@ -30,12 +30,16 @@ Neste trabalho foi apresentada metodologia sobre como reduzir a dimensão de an�
 * [cluster_analise.xlsx](https://github.com/Osvaldo1982/mba_usp_esalq/blob/main/cluster_analise.xlsx):
 * [tcc_mba_usp_esalq_ds_osvaldo_pereira](https://github.com/Osvaldo1982/mba_usp_esalq/blob/main/tcc_mba_usp_esalq_ds_osvaldo_pereira_20230211.docx)
 
-# **My Social Media**
-- Website: [ozsantospereira.github.io](https://ozsantospereira.github.io/)
-- Medium: [@ozsp](https://medium.com/@ozsp)
-- Patreon: [ozsp](https://www.patreon.com/c/ozsp)
-- LinkedIn: [Osvaldo Pereira](https://www.linkedin.com/in/osvaldo-pereira)
-- Twitter/X: [@Osvaldo91422399](https://twitter.com/Osvaldo91422399)
-- ResearchGate: [Oz Santos Pereira](https://www.researchgate.net/profile/Oz-Santos-Pereira)
-- Google Scholar: [Osvaldo L. Santos-Pereira]
+# Social Media
+🌐 Webpage: https://osvaldosantospereira.github.io/  
+✅ GitHub: https://github.com/osvaldosantospereira  
+✍️ Medium: https://medium.com/@ozsp  
+🧡 Patreon: https://www.patreon.com/c/ozsp  
+💼 LinkedIn: https://www.linkedin.com/in/osvaldo-pereira  
+𝕏 X (Twitter): https://x.com/OsvaldoLSP12  
+🎶 TikTok: https://www.tiktok.com/@docozsp  
+▶️ YouTube: https://www.youtube.com/@olsp1212  
+🧪 ResearchGate: https://www.researchgate.net/profile/Osvaldo-Santos-Pereira  
+🔬 Google Scholar: https://scholar.google.com/citations?user=HIZp0X8AAAAJ&hl=en  
+🧾 ORCID: https://orcid.org/0000-0003-2231-517X  
 
